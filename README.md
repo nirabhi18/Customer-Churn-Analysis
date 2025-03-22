@@ -1,6 +1,8 @@
 # Customer-Churn-Analysis
 Dashboard Link : https://app.powerbi.com/links/EthIPytQ20?ctid=d4963ce2-af94-4122-95a9-644e8b01624d&pbi_source=linkShare 
+
 Overview
+
 This Churn Analysis Dashboard is built using Power BI to analyze customer churn trends for a banking institution. It provides insights into customer demographics, account activity, product ownership, and key churn indicators. The dashboard visualizes patterns in customer attrition, helping stakeholders identify key factors influencing churn rates.
 
 **Key Features**
